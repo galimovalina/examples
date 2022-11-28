@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.AssemblyInfo.cs
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\examples\example008_picture\bin\Debug\net6.0\example008_picture.exe
+C:\Users\user\Desktop\examples\example008_picture\bin\Debug\net6.0\example008_picture.deps.json
+C:\Users\user\Desktop\examples\example008_picture\bin\Debug\net6.0\example008_picture.runtimeconfig.json
+C:\Users\user\Desktop\examples\example008_picture\bin\Debug\net6.0\example008_picture.dll
+C:\Users\user\Desktop\examples\example008_picture\bin\Debug\net6.0\example008_picture.pdb
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.dll
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\refint\example008_picture.dll
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.pdb
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\example008_picture.genruntimeconfig.cache
+C:\Users\user\Desktop\examples\example008_picture\obj\Debug\net6.0\ref\example008_picture.dll

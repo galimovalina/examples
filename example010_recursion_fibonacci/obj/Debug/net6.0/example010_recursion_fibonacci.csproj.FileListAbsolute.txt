@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\bin\Debug\net6.0\example010_recursion_fibonacci.exe
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\bin\Debug\net6.0\example010_recursion_fibonacci.deps.json
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\bin\Debug\net6.0\example010_recursion_fibonacci.runtimeconfig.json
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\bin\Debug\net6.0\example010_recursion_fibonacci.dll
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\bin\Debug\net6.0\example010_recursion_fibonacci.pdb
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.AssemblyInfo.cs
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.dll
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\refint\example010_recursion_fibonacci.dll
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.pdb
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\example010_recursion_fibonacci.genruntimeconfig.cache
+C:\Users\user\Desktop\examples\example010_recursion_fibonacci\obj\Debug\net6.0\ref\example010_recursion_fibonacci.dll

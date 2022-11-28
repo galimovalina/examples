@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\examples\example009_recursion\bin\Debug\net6.0\example009_recursion.exe
+C:\Users\user\Desktop\examples\example009_recursion\bin\Debug\net6.0\example009_recursion.deps.json
+C:\Users\user\Desktop\examples\example009_recursion\bin\Debug\net6.0\example009_recursion.runtimeconfig.json
+C:\Users\user\Desktop\examples\example009_recursion\bin\Debug\net6.0\example009_recursion.dll
+C:\Users\user\Desktop\examples\example009_recursion\bin\Debug\net6.0\example009_recursion.pdb
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.AssemblyInfo.cs
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.dll
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\refint\example009_recursion.dll
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.pdb
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\example009_recursion.genruntimeconfig.cache
+C:\Users\user\Desktop\examples\example009_recursion\obj\Debug\net6.0\ref\example009_recursion.dll
